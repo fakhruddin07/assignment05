@@ -1,16 +1,2 @@
-# assignment05
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![drawer](https://github.com/fakhruddin07/assignment05/assets/76893206/6e8122d8-e91f-4324-af7a-78acf8e0a0de)
+![page](https://github.com/fakhruddin07/assignment05/assets/76893206/5924b330-03fd-43e1-8365-4fd25a193141)

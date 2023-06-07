@@ -27,10 +27,6 @@ class MyHomePage extends StatelessWidget{
         title: const Text("Big Dream App"),
         backgroundColor: Colors.green,
         elevation: 10,
-        // actions: [
-        //   IconButton(onPressed: (){}, icon: const Icon(Icons.notifications)),
-        //   IconButton(onPressed: (){}, icon: const Icon(Icons.search)),
-        // ],
       ),
       body: const Pages(page: "Page 1", color: Colors.green),
       drawer: Drawer(
